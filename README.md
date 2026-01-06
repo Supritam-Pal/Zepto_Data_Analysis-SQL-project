@@ -1,9 +1,8 @@
 🛒 **Zepto_Data_Analysis-SQL-project**
-
 SQL Data Analysis on Zepto E-commerce Inventory Dataset
 
 
-🧠 Project Overview
+🧠 **Project Overview**
 
 This repository contains an end-to-end SQL data analysis project using a real-world inventory dataset inspired by Zepto — one of India’s fastest-growing quick-commerce grocery delivery platforms. The primary goal of this project is to simulate how data analysts explore, clean, and analyze messy retail data using SQL to derive actionable business insights. 
 
