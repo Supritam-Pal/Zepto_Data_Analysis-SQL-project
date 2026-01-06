@@ -132,7 +132,9 @@ This project is open-source — you can modify or reuse the SQL scripts accordin
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/supritampal/)
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/supritampal/)
 
 
 
