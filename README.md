@@ -1,4 +1,6 @@
-# Zepto_Data_Analysis-SQL-project
+🛒 **Zepto_Data_Analysis-SQL-project**
+
+SQL Data Analysis on Zepto E-commerce Inventory Dataset
 
 
 🧠 Project Overview
